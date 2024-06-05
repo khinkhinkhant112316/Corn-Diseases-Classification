@@ -20,7 +20,7 @@ In developing countries, smallholder farmers produce more than 80% of the agricu
 and reports indicate that more than fifty percent loss in crop due to pests and diseases. 
 The world population is expected to grow to more than 9.7 billion by 2050, making food security a major concern in the upcoming years. Hence, rapid and accurate methods of identifying plant diseases are needed to take appropriate measures.
 
-**This Streamlit App utilizes a Deep Learning model to detect diseases (Northern Leaf Blight, Common Rust, Gray Leaf Spot) that attack corn leaves, based on digital images.
+**This Streamlit App utilizes a Deep Learning model to detect diseases (Northern Leaf Blight, Common Rust, Gray Leaf Spot) that attack corn leaves, based on digital images.**
 
 ''')
 
