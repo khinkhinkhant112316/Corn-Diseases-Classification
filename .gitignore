@@ -1,0 +1,11 @@
+.venv/
+venv/
+pyenv/
+.idea/
+.vscode/
+*.sqlite
+*.db
+*.log
+.DS_Store
+streamlit_cloud.cfg
+__pycache__/
